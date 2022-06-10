@@ -17,13 +17,6 @@ body {
     font-weight: 300;
 }
 
-h1 {
-    font-size: 3rem;
-    font-weight: 400;
-    margin-top: 90px;
-    color: rgb(0, 0, 0);
-    text-align: center;
-}
 
 .music-container {
     background: #fff;
